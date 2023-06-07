@@ -1,0 +1,22 @@
+http://expertdevelopers.ir/api/v1/
+experts/student
+
+Restful Api: crud -  curd
+
+// create         ----> method: post
+// get or read     ---> method: get
+// update or edit    ---->  method: put
+// delete or remove   ---->  method: delete
+
+
+socket programming  : chat, messenger, video call
+
+
+
+
+
+https://fakestoreapi.com/
+products
+
+
+get
