@@ -5,6 +5,4 @@ class StudentController{
    static final TextEditingController lastname= TextEditingController();
    static final TextEditingController course= TextEditingController();
    static final TextEditingController score= TextEditingController();
-
-
 }
