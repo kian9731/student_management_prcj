@@ -18,7 +18,8 @@ class StudentPage extends StatelessWidget {
             child: ElevatedButton(
                 style: ElevatedButton.styleFrom(
                     shape: const StadiumBorder(),
-                    primary: Colors.green
+                    primary: Colors.blue,
+                    backgroundColor: Colors.lightBlue
                 ),
                 onPressed: (){
                   Navigator.pushNamed(context, "/createStudent");
